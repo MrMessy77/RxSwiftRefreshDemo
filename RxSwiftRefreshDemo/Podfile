@@ -1,0 +1,11 @@
+use_frameworks!
+target 'RxSwiftRefreshDemo' do
+    pod 'RxSwift', '~> 2.0'
+    pod 'RxCocoa', '~> 2.0'
+    pod 'RxDataSources', '~> 0.9'
+    pod 'WHC_AutoLayoutKit_Swift2_3', '~> 2.6.5'
+    pod 'Argo', '3.1.0'
+    pod 'Moya', '7.0.4'
+    pod 'Curry', '2.3.3'
+    pod 'MJRefresh'
+end

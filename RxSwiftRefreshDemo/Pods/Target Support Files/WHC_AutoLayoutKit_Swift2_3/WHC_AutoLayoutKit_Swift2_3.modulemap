@@ -1,0 +1,6 @@
+framework module WHC_AutoLayoutKit_Swift2_3 {
+  umbrella header "WHC_AutoLayoutKit_Swift2_3-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,44 @@
+PODS:
+  - Alamofire (3.5.1)
+  - Argo (3.1.0)
+  - Curry (2.3.3)
+  - MJRefresh (3.1.12)
+  - Moya (7.0.4):
+    - Moya/Core (= 7.0.4)
+  - Moya/Core (7.0.4):
+    - Alamofire (~> 3.5)
+    - Result (~> 2.0)
+  - Result (2.1.3)
+  - RxCocoa (2.6.1):
+    - RxSwift (~> 2.6)
+  - RxDataSources (0.9):
+    - RxCocoa (~> 2.2)
+    - RxSwift (~> 2.2)
+  - RxSwift (2.6.1)
+  - WHC_AutoLayoutKit_Swift2_3 (2.6.5)
+
+DEPENDENCIES:
+  - Argo (= 3.1.0)
+  - Curry (= 2.3.3)
+  - MJRefresh
+  - Moya (= 7.0.4)
+  - RxCocoa (~> 2.0)
+  - RxDataSources (~> 0.9)
+  - RxSwift (~> 2.0)
+  - WHC_AutoLayoutKit_Swift2_3 (~> 2.6.5)
+
+SPEC CHECKSUMS:
+  Alamofire: 0dfba1184a543e2aa160f4e39cac4e8aba48d223
+  Argo: bb0e94e309d6ceb8fa58910205c8968be101e429
+  Curry: 37223f4467e4802a08b6a414b526dcd919a4a777
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  Moya: d309d994aa096916c4d95bc2a162789b4745d7cb
+  Result: 18e1a7597fbcca5923c565b40a25a98afafdee02
+  RxCocoa: 3bb2820fd2a1ba48a70d38926bec0803838ae802
+  RxDataSources: e169bba94a7be584df7c1e1487fa56edc8753ae6
+  RxSwift: 0147fbf94e65c6085da9540de92848189ac1c3f6
+  WHC_AutoLayoutKit_Swift2_3: 82147a12cfd76d7eaa28258e5d1a9325b135e1dc
+
+PODFILE CHECKSUM: 0ea81c4d51de8c3cba1e640cf368205f3a48cea9
+
+COCOAPODS: 1.2.0.rc.1

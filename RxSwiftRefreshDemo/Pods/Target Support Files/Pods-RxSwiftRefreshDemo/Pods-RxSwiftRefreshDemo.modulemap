@@ -1,0 +1,6 @@
+framework module Pods_RxSwiftRefreshDemo {
+  umbrella header "Pods-RxSwiftRefreshDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
