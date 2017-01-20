@@ -3,4 +3,4 @@
 
 效果图：
 
-![rxswiftrefresh2.gif](http://upload-images.jianshu.io/upload_images/764896-b33cfb8e22609b01.gif?imageMogr2/auto-orient/strip)
+![rxswiftrefresh2.gif](https://upload-images.jianshu.io/upload_images/764896-b33cfb8e22609b01.gif?imageMogr2/auto-orient/strip)
